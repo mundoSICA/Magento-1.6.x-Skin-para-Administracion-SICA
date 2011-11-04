@@ -11,12 +11,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
-   width="28"
-   height="91"
+   width="19"
+   height="23"
    id="svg1"
    inkscape:version="0.48.0 r9654"
-   sodipodi:docname="logo_login.svg"
-   inkscape:export-filename="/home/fitorec/SICA/git/Magento-1.6.x-Skin-para-Administracion-SICA/src/img/logo_login.png"
+   sodipodi:docname="varien_logo.svg"
+   inkscape:export-filename="/home/fitorec/SICA/git/Magento-1.6.x-Skin-para-Administracion-SICA/src/img/varien_logo.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <sodipodi:namedview
@@ -32,9 +32,9 @@
      inkscape:window-height="691"
      id="namedview150"
      showgrid="false"
-     inkscape:zoom="9.2444444"
-     inkscape:cx="38.546532"
-     inkscape:cy="29.808008"
+     inkscape:zoom="6.5368093"
+     inkscape:cx="29.723303"
+     inkscape:cy="15.680567"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -879,10 +879,11 @@
     <filter
        inkscape:collect="always"
        id="filter3982"
-       x="-0.57817815"
+       x="-0.57817817"
        width="2.1563563"
        y="-0.15142882"
-       height="1.3028576">
+       height="1.3028576"
+       color-interpolation-filters="sRGB">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="3.3124394"
@@ -891,10 +892,11 @@
     <filter
        inkscape:collect="always"
        id="filter3990"
-       x="-0.1586247"
+       x="-0.15862469"
        width="1.3172494"
-       y="-0.038554204"
-       height="1.0771084">
+       y="-0.038554203"
+       height="1.0771084"
+       color-interpolation-filters="sRGB">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.74910791"
@@ -913,61 +915,27 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <rect
-     style="fill:#e3eeff;fill-opacity:1;stroke:#8589a2;stroke-width:1.01148689000000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-     id="rect3178"
-     width="26.988514"
-     height="89.98851"
-     x="0.50574344"
-     y="0.50574642" />
-  <path
-     d="M 14.647188,65.61141 2.8900805,71.087378 2.9976352,82.522331 14.306855,87.952159 25.088518,81.829359 24.77223,71.146695 z"
-     id="path4070"
-     style="fill:#ffffff;fill-opacity:1;stroke:#00112b;stroke-width:0.63871688px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     inkscape:connector-curvature="0" />
   <g
-     transform="matrix(1.1465749,0,0,0.96124912,-154.16708,24.636038)"
-     id="g4072">
+     id="g4020"
+     transform="matrix(0.83197756,0,0,0.83197756,-2.1387831,4.1345524)">
     <path
-       d="m 137.239,48.609099 c -0.093,0.557895 0,11.34375 0,11.34375 0,0 1.67027,0.987956 2.9375,1.75 l 0.125,-11.03125 3.3125,-2.0625 -6.375,0 z m 12.875,0 2.78125,1.8125 0.0625,11.125 c 1.45949,-0.990823 3.15625,-2.125 3.15625,-2.125 l -0.1875,-10.8125 -5.8125,0 z m -4.84375,1.875 -3,1.5 0,10.96875 c 2.20649,1.293529 4.39413,2.543686 4.65625,2.5 0.25811,-0.04302 2.28004,-1.368683 4.34375,-2.75 l 0.0625,-10.78125 -3.40625,-1.3125 -0.28125,11.375 -1.1875,1 -1.03125,-1.1875 -0.15625,-11.3125 z"
-       id="path4074"
-       style="fill:#ff5800;fill-opacity:1;stroke:none"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 147.27025,42.952849 -9.9375,5.5625 3.1875,2 6.40625,-3.96875 5.96875,3.875 0,0.03125 3.03125,-1.75 -8.65625,-5.75 z m -2,7.53125 -2.6875,1.34375 2.71875,1.71875 -0.0312,-3.0625 z m 2.65625,0.125 -0.0625,2.71875 2.875,-1.625 -2.8125,-1.09375 z"
-       id="path4076"
-       style="fill:#ffb100;fill-opacity:1;stroke:none"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1;stroke:#00112b;stroke-width:0.63871688px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path4070"
+       d="M 14.647188,-2.38859 2.8900805,3.087378 2.9976352,14.522331 14.306855,19.952159 25.088518,13.829359 24.77223,3.146695 z" />
+    <g
+       id="g4072"
+       transform="matrix(1.1465749,0,0,0.96124912,-154.16708,-43.363962)">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ff5800;fill-opacity:1;stroke:none"
+         id="path4074"
+         d="m 137.239,48.609099 c -0.093,0.557895 0,11.34375 0,11.34375 0,0 1.67027,0.987956 2.9375,1.75 l 0.125,-11.03125 3.3125,-2.0625 -6.375,0 z m 12.875,0 2.78125,1.8125 0.0625,11.125 c 1.45949,-0.990823 3.15625,-2.125 3.15625,-2.125 l -0.1875,-10.8125 -5.8125,0 z m -4.84375,1.875 -3,1.5 0,10.96875 c 2.20649,1.293529 4.39413,2.543686 4.65625,2.5 0.25811,-0.04302 2.28004,-1.368683 4.34375,-2.75 l 0.0625,-10.78125 -3.40625,-1.3125 -0.28125,11.375 -1.1875,1 -1.03125,-1.1875 -0.15625,-11.3125 z" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ffb100;fill-opacity:1;stroke:none"
+         id="path4076"
+         d="m 147.27025,42.952849 -9.9375,5.5625 3.1875,2 6.40625,-3.96875 5.96875,3.875 0,0.03125 3.03125,-1.75 -8.65625,-5.75 z m -2,7.53125 -2.6875,1.34375 2.71875,1.71875 -0.0312,-3.0625 z m 2.65625,0.125 -0.0625,2.71875 2.875,-1.625 -2.8125,-1.09375 z" />
+    </g>
   </g>
-  <path
-     style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;font-family:Sans;filter:url(#filter3982)"
-     d="m 9.6875,58.875 c 6.031211,1.818437 12.8649,-1.57534 7.90625,-6.34375 2.667138,-0.328546 1.159744,-5.457872 1.40625,-8.125 -0.535518,-2.661279 2.687756,-3.299429 2.15625,-6.5625 0.511663,-2.208851 -2.023591,-3.911831 -2.5,-5.0625 C 19.787168,25.615317 18.306595,18.582672 19.125,11.4375 19.314513,4.9500673 8.4926736,5.6072534 9.375,11.96875 10.317052,15.279411 5.5229187,18.107379 8.96875,21 c 0.836612,2.070343 0.7948306,6.303384 0.4375,8.9375 0.789205,3.653936 -1.1063257,7.94195 1,11.3125 -2.232021,1.582054 0.765092,6.386723 -2.71875,5.5 1.3779756,4.130523 -2.4122159,11.137232 2,12.125 z"
-     id="text3952"
-     inkscape:connector-curvature="0" />
-  <text
-     transform="matrix(0,-0.9481454,1.0546906,0,0,0)"
-     sodipodi:linespacing="125%"
-     id="text3986"
-     y="16.43746"
-     x="-61.430592"
-     style="font-size:10.78409386000000048px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;filter:url(#filter3990)"
-     xml:space="preserve"><tspan
-       style="font-size:10.78409386px;font-weight:bold;fill:#ffffff;-inkscape-font-specification:Sans Bold"
-       y="16.43746"
-       x="-61.430592"
-       id="tspan3988"
-       sodipodi:role="line">Magento</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff6600;fill-opacity:1;stroke:none;font-family:Sans"
-     x="-57.791794"
-     y="16.983906"
-     id="text3948"
-     sodipodi:linespacing="125%"
-     transform="matrix(0,-1,1,0,0,0)"><tspan
-       sodipodi:role="line"
-       id="tspan3950"
-       x="-57.791794"
-       y="16.983906"
-       style="font-size:10px;font-weight:bold;fill:#ff6600;-inkscape-font-specification:Sans Bold">Magento</tspan></text>
 </svg>
